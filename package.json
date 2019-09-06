@@ -1,0 +1,16 @@
+{
+  "name": "BarkBuddy",
+  "version": "1.0.0",
+  "description": "TinDog Starting Files",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://steven-ha-88.github.io/BarkBuddy/",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
